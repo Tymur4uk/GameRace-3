@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cs-game-engine">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../cs-game-engine" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
